@@ -1,0 +1,1 @@
+This will be a project to improve my understanding and skills with HTML. By the end of this I intend to have a plan to create an entirely manually built blog in order to document and reflect on my progress
